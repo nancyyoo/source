@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name = "app_name">"카빈"</string>
+    
+    <string name = "activity_finish">한번 더 뒤로가기 버튼을 누르시면 앱이 종료 됩니다.</string>
+        
+    <string name = "permission_title">안내</string>
+    <string name = "permission_ok">접근권한 승인</string>
+    <string name = "permission_mag"> 필수 접근 항목이 승인되지 않으면 앱 실행중 오류가 발생할 수 있습니다.</string>
+    <string name = "permission_mag_1">(안드로이드 OS 마시멜로우(6.0)대상 단말기)</string>
+    <string name = "permission_mag2">""허용"버튼을 클릭하시면 앱사용이 이상이 없습니다.</string>
+    <string name = "permission_mag3_title">· 위치권한 :</string>
+    <string name = "permission_mag3"> 친구 위치정보, Gps수신을 위해 위치권한 취득</string>
+    <string name = "permission_mag4_title">· 저장권한 :</string>
+    <string name = "permission_mag4"> 사진다운로드 저장 하기위해 저장권한 취득 </string>
+    <string name = "permission_mag5_title">· 전화권한 :</string>
+    <string name = "permission_mag5"> 앱을 실행하며 전화 수신 하기위해 전화권한 취득 </string>
+  
+    <string name = "setting_login">로그인</string>
+    <string name = "setting_profile">프로필</string>
+    <string name = "setting_vertion">버전정보</string>
+    <string name = "setting_change">위치변경</string>
+    <string name = "setting_push">알림정보</string>
+    <string name = "setting_enroll">회원가입</string>
+    <string name = "setting_service_center">고객센터</string>
+    <string name = "setting_login_out">로그아웃</string>
+    <string name = "setting_logout">로그아웃 되셨습니다.</string>
+    <string name = "setting_not_login">로그인이 되어있지않습니다.</string>
+
+    
+    <string name = "login_id">아이디</string>
+    <string name = "login_password">비밀번호</string>
+    <string name = "login_id_sheck">체크 하시면 자동로그인이 가능합니다.</string>
+    <string name = "login_ok">로그인</string>
+    <string name = "login_sign_up">아직 "카빈" 회원이 아니신가요?</string>
+    <string name = "login_sns_sign_up">sns계정으로 로그인 하시겠습니까?</string>
+    <string name = "login_user"> 로그인하셨습니다.</string>
+    <string name = "login_fail">로그인에 실패하셨습니다.</string>
+    
+    <string name = "main_my_cafe">내 주변 카페</string>
+    <string name = "main_my_favorite">My favorite</string>
+    <string name = "main_notice">공지사항</string>
+    <string name = "main_setting">설정</string>
+    
+	<string name = "listview_input_data">데이터를 입력하세요.</string>
+	<string name = "listview_add_data">데이터가 추가되었습니다.</string>
+	<string name = "listview_delete_data">해당 댓글을 삭제하시겠습니까?</string>
+	<string name = "listview_delete">삭제</string>
+	<string name = "listview_close">닫기</string>
+	
+	<string name = "member_profile">"프로필 수정"</string>
+	<string name = "member_profile_complete">"프로필 수정이 완료되었습니다."</string>
+	<string name = "member_complete">"회원가입이 완료되었습니다."</string>
+	<string name = "member_cancel">"회원가입이 취소되었습니다."</string>
+	<string name = "member_input_empty">"필수입력이 되어있지 않습니다."</string>
+
+    <string name = "str_done">str_done</string>
+   
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

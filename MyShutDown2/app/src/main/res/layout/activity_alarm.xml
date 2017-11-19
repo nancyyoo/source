@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <include
+        layout="@layout/activity_alarm_button"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="300dp"
+            android:src="@drawable/calender" />
+    </LinearLayout>
+
+    <include layout="@layout/activity_alarm_clock" />
+
+    <include layout="@layout/activity_alarm_setting" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#A6A6A6"
+            android:paddingTop="3dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

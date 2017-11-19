@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!--
+    
+    공용으로 써야되는데 수정할게 너무 많음 일단 대기. 
+    <color name="dialog_title_bg">#1e1e1e</color>
+    -->
+    <color name="wv_hz_progress">#328ae5</color>
+    
+    <color name="common_title_font">#181818</color>
+    
+    <color name="main_bottom_menu_bg">#f8f8f8</color>
+     
+    <color name="dialog_title_bg">#5CD1E5</color>
+    <color name="dialog_title_font">#ffffff</color>
+    <color name="dialog_sep_title">#328ae5</color>
+    
+    <color name="dialog_content_bg">#FCFCFC</color>
+    <color name="dialog_content_main_font">#333333</color>
+    <color name="dialog_content_sub_font">#1f63aa</color>
+    <color name="dialog_content_subs_font">#8C8C8C</color>
+    <color name="dialog_content_sep_line">#EAEAEA</color>
+    
+    <color name="dialog_sep_content">#cccccc</color>
+    
+    <color name="dialog_cancel_font">#333333</color>
+    <color name="dialog_ok_font">#3477bb</color>
+    
+    <color name="dialog_btn_normal_bg">#f1f5f9</color>
+  	<color name="dialog_btn_press_bg">#c9d9e8</color>
+  	
+  	<color name="notification_bg">#2a7abf</color>
+  	
+  	<color name="down_select_title_bg">#f8fbfc</color>
+  	<color name="down_select_item_bg">#ffffff</color>
+  	<color name="down_select_item_font">#181818</color>
+  	<color name="down_select_title_sep">#d6d6d6</color>
+  	
+  	<color name="dm_title_bg">#ffffff</color>
+  	<color name="dm_menu_bg">#f8fbfc</color>
+  	<color name="dm_menu_sep">#ff000000</color>
+  	<color name="dm_menu_title_font">#ffffff</color>
+  	<color name="dm_content_bg">#ffffff</color>
+  	<color name="dm_content_border">#cecece</color>
+  	<color name="dm_viewpager_bg">#ffffff</color>
+  	<color name="dm_item_right_bg">#f8fbfc</color>
+  	<color name="dm_info_msg_font">#faed7d</color>
+  	<color name="dm_sep_title">#d6d6d6</color>
+  	
+  	<color name="dm_complete_item_bg">#f8fbfc</color>
+  	<color name="dm_complete_size_font">#ff0000</color>
+  	<color name="dm_content_sep">#00000000</color>
+  	
+  	
+  	<color name="setting_title_bg">#f8fbfc</color>
+  	<color name="setting_content_bg1">#f8fbfc</color>
+  	<color name="setting_content_bg2">#ffffff</color>
+  	<color name="setting_sep">#d6d6d6</color>
+  	<color name="setting_content_font">#ff000000</color>
+    
+  	<color name="progress_center_color">#4374D9</color>
+  	<color name="progress_end_color">#4374D9</color>
+  	<color name="progress_start_color">#00ec7e2a</color>
+  	
+  	<color name="copyright_font">#ffffff</color>
+</resources>

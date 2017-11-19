@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 로그 활성화 -->
+    <bool name="log_enable">true</bool>
+    
+    <!-- 크래쉬 로그 전송여부 및 세팅 -->
+    <bool name="crashlog_send">false</bool>
+    <string name="crashlog_name">err.log</string>
+    
+</resources>
